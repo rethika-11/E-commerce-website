@@ -5,7 +5,10 @@ A 13-product electronics store — browse and cart freely, checkout gated behind
 **Live demo:** https://rethika-11.github.io/E-commerce-website/ * repo: https://github.com/rethika-11/E-commerce-website
 
 ## Screenshots
-
+###home page
+![Home page](e-m.png)
+### product page
+![product page](e.w.jpeg)
 
 
 ## Features
