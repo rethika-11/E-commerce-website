@@ -2,11 +2,11 @@
 
 A 13-product electronics store — browse and cart freely, checkout gated behind Google sign-in via Clerk. Built by hand with HTML, CSS and vanilla JS.
 
-**Live demo:**  *
+**Live demo:** https://rethika-11.github.io/E-commerce-website/ *
 
 ## Screenshots
 
-*(Add a desktop and a mobile screenshot here once deployed)*
+
 
 ## Features
 
